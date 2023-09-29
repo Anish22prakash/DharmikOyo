@@ -1,6 +1,6 @@
 ﻿namespace DharmikBackEndOyo.Sertvices.Facilites
 {
-    public class FacilitesService:IFacilitesService
+    public class FacilitesService
     {
     }
 }

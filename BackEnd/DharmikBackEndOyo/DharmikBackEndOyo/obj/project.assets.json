@@ -3106,24 +3106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Anish Prakash\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+      "projectUniqueName": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
       "projectName": "DharmikBackEndOyo",
-      "projectPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
+      "projectPath": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+      "packagesPath": "C:\\Users\\Anish Prakash\\.nuget\\packages\\",
+      "outputPath": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Anish Prakash\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3197,13 +3192,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
