@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {}
+    "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {}
   },
   "projects": {
-    "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {
+    "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+        "projectUniqueName": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
         "projectName": "DharmikBackEndOyo",
-        "projectPath": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
-        "packagesPath": "C:\\Users\\Anish Prakash\\.nuget\\packages\\",
-        "outputPath": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
+        "projectPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Anish Prakash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,23 +47,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.22, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.22, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.22, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
