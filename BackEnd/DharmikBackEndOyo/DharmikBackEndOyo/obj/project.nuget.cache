@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ReBhUBNZojIZb+wQMiaUfCiiv7l5W9vx88BecDTmHfiUa1CGHK7W0Vk/JprrwBHCfv6kkk8z9evcEXVnoE4cEQ==",
+  "dgSpecHash": "4Bp6E7TAfq0CKYjOp38rx8fsAb9Gdb66FbSIujV3eSLC8cJm55cbe6aCY5cCvsh0F59HOfrVeiYx0qtZxwK/Zg==",
   "success": true,
-  "projectFilePath": "c:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+  "projectFilePath": "C:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anish Prakash\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Anish Prakash\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -71,12 +71,5 @@
     "C:\\Users\\Anish Prakash\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Anish Prakash\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\HARD DRIVE\\f\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
