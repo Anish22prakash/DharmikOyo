@@ -23,6 +23,8 @@ builder.Services.AddScoped<IFacilitesService, FacilitesService>();
 builder.Services.AddScoped<IQueryService, QueryService>();
 builder.Services.AddScoped<IStateService,StateService>();
 builder.Services.AddScoped<IUserService, UserService>();
+
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -35,5 +37,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
+//Changes
 
