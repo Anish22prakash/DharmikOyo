@@ -1,0 +1,40 @@
+marquee.notice {
+    color: #fff;
+}
+
+
+.container{
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-around;
+    background-color: #f4f4f4;
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: .5%;
+}
+
+a.nav-link{
+    padding: 26px 10px;
+    display: block;
+    font-family: 'Varela Round', sans-serif;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.1525em;
+    transition: all 0.4s ease 0s;
+}
+
+a.nav-link:hover{
+    background-color: #0c242e;
+    color: #fff;
+}
+
+.navbar-nav > .active > a {
+    background-color: #0c242e;
+    color: #fff;
+}
+
+.navbar2{
+    padding: 1%;
+    background-color: #0c242e;
+}

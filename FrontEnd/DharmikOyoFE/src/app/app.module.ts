@@ -10,6 +10,7 @@ import { ContactusComponent } from './contactus/contactus.component';
 import { DharamshalaComponent } from './dharamshala/dharamshala.component';
 import { AdddharamshalaComponent } from './adddharamshala/adddharamshala.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AboutusComponent,
     ContactusComponent,
     DharamshalaComponent,
-    AdddharamshalaComponent
+    AdddharamshalaComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
