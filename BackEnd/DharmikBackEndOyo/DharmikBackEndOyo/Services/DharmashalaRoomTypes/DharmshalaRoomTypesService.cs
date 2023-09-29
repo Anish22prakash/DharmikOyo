@@ -1,6 +1,6 @@
 ﻿namespace DharmikBackEndOyo.Sertvices.DharmashalaRoomTypes
 {
-    public class DharmshalaRoomTypesService
+    public class DharmshalaRoomTypesService : IDharmshalaRoomTypesService
     {
     }
 }

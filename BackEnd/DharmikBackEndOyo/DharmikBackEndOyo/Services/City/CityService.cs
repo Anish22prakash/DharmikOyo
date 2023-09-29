@@ -1,6 +1,6 @@
 ﻿namespace DharmikBackEndOyo.Sertvices.City
 {
-    public class CitySerrvice
+    public class CityService : ICityService
     {
     }
 }

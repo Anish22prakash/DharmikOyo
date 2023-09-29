@@ -1,6 +1,6 @@
 ﻿namespace DharmikBackEndOyo.Sertvices.State
 {
-    public class StateService
+    public class StateService:IStateService
     {
     }
 }
