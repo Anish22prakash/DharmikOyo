@@ -9,19 +9,15 @@
   <ItemGroup>
     <Compile Remove="Common\**" />
     <Compile Remove="Helper\**" />
-    <Compile Remove="Models\**" />
     <Compile Remove="Service\**" />
     <Content Remove="Common\**" />
     <Content Remove="Helper\**" />
-    <Content Remove="Models\**" />
     <Content Remove="Service\**" />
     <EmbeddedResource Remove="Common\**" />
     <EmbeddedResource Remove="Helper\**" />
-    <EmbeddedResource Remove="Models\**" />
     <EmbeddedResource Remove="Service\**" />
     <None Remove="Common\**" />
     <None Remove="Helper\**" />
-    <None Remove="Models\**" />
     <None Remove="Service\**" />
   </ItemGroup>
 

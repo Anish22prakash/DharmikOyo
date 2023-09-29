@@ -1,14 +1,14 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
-namespace DharmikBackEndOyo.DB_Models
+namespace DharmikBackEndOyo.Models
 {
     public class DharmshalaRoomTypes
     {
         [Key]
         public int DharmshalaRoomTypesId { get; set; }
 
-        [Required(ErrorMessage ="Please enter Dharmshala room type name")]
+        [Required(ErrorMessage = "Please enter Dharmshala room type name")]
         public string DharmshalaRoomTypesName { get; set; }
 
         [Required]
