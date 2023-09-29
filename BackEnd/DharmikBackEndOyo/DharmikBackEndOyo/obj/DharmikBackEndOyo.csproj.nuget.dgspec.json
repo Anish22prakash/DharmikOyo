@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {}
+    "C:\\HARD DRIVE\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {}
   },
   "projects": {
-    "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {
+    "C:\\HARD DRIVE\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+        "projectUniqueName": "C:\\HARD DRIVE\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
         "projectName": "DharmikBackEndOyo",
-        "projectPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Dharmik oyo\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
+        "projectPath": "C:\\HARD DRIVE\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\DharmikBackEndOyo.csproj",
+        "packagesPath": "C:\\Users\\Anish Prakash\\.nuget\\packages\\",
+        "outputPath": "C:\\HARD DRIVE\\DharmikOyo\\BackEnd\\DharmikBackEndOyo\\DharmikBackEndOyo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Anish Prakash\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

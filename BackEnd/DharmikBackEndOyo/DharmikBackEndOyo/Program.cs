@@ -23,7 +23,7 @@ builder.Services.AddScoped<IFacilitesService, FacilitesService>();
 builder.Services.AddScoped<IQueryService, QueryService>();
 builder.Services.AddScoped<IStateService,StateService>();
 builder.Services.AddScoped<IUserService, UserService>();
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline added in the dummy text.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
