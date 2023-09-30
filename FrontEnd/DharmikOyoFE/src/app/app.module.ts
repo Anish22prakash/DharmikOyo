@@ -11,6 +11,8 @@ import { DharamshalaComponent } from './dharamshala/dharamshala.component';
 import { AdddharamshalaComponent } from './adddharamshala/adddharamshala.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FooterComponent } from './footer/footer.component';
+import { LoginComponent } from './login/login.component';
+import { SignupComponent } from './signup/signup.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { FooterComponent } from './footer/footer.component';
     ContactusComponent,
     DharamshalaComponent,
     AdddharamshalaComponent,
-    FooterComponent
+    FooterComponent,
+    LoginComponent,
+    SignupComponent
   ],
   imports: [
     BrowserModule,

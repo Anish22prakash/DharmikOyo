@@ -14,19 +14,20 @@ marquee.notice {
 }
 
 a.nav-link{
-    padding: 26px 10px;
+    padding: 23px 10px;
     display: block;
     font-family: 'Varela Round', sans-serif;
     color: #000;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 13px;
     letter-spacing: 0.1525em;
     transition: all 0.4s ease 0s;
 }
 
 a.nav-link:hover{
-    background-color: #0c242e;
+    background-color: #e33905;
     color: #fff;
+    border-radius: 12px;
 }
 
 .navbar-nav > .active > a {
@@ -38,3 +39,6 @@ a.nav-link:hover{
     padding: 1%;
     background-color: #0c242e;
 }
+
+
+
